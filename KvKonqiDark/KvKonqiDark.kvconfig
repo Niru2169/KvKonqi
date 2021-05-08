@@ -1,6 +1,6 @@
 [%General]
 author=Keystistic
-comment=Breeze for Kvantum, under development, based on Breeze Plasma theme and color scheme, Monochrome KDE Kvantum theme, FlatBlur, We10XOS
+comment=Breeze for Kvantum, based on Breeze Plasma theme and color scheme & Monochrome KDE Kvantum theme
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
