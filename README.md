@@ -1,5 +1,5 @@
 # KvKonqi
-A Kvantum theme that looks like the Breeze theme with more transparency and blur
+My attempt to make kooler Breeze for Kvantum
 
 
 
